@@ -378,10 +378,10 @@ export async function participantsUpdate({ id, participants, action }) {
                      
                        this.sendMessage(id, {text: text, thumbnail: await( await this.getFile(pp)).data , contextInfo:{ mentionedJid: [user] , externalAdReply: { showAdAttribution: true,
 mediaType:  2,
-mediaUrl: 'https://www.instagram.com/p/Cch2IoGFomX/?utm_source=ig_web_copy_link',
+mediaUrl: 'https://instagram.com/sampun_penak',
 title: '「 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑴𝒆𝒔𝒔𝒂𝒈𝒆 」',
 body: me,
-sourceUrl: 'https://www.instagram.com/p/Cch2IoGFomX/?utm_source=ig_web_copy_link', thumbnail: await( await this.getFile(pp)).data
+sourceUrl: 'https://instagram.com/sampun_penak', thumbnail: await( await this.getFile(pp)).data
   }
  }})
                     }

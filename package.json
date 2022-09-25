@@ -1,5 +1,5 @@
 {
-    "name": "re-md",
+    "name": "Mimim-Ofc",
     "version": "2.5.0",
     "description": "Simple WhatsApp Bot",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Rlxfly/re-md",
+    "homepage": "https://github.com/sampun-penak/new-4",
     "author": {
-        "name": "Rlxfly"
+        "name": "Mimim"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Rlxfly/re-md.git"
+        "url": "git+https://github.com/sampun-penak/new-4.git"
     },
     "bugs": {
-        "url": "https://github.com/Rlxfly/re-md/issues"
+        "url": "https://github.com/sampun-penak/new-4/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

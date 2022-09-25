@@ -1,5 +1,5 @@
 <? php
   
-  echo "Created By Rlxlfy - 2022"
+  echo "Created By Mimim - 2022"
   
   >
