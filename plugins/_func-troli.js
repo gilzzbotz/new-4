@@ -4,13 +4,13 @@ import { generateWAMessageFromContent } from "@adiwajshing/baileys"
 
 let handler  = async (m, { conn }) => {
 		    const prep = generateWAMessageFromContent(m.chat, { orderMessage: { 
-orderId: '5352482274766633',
+orderId: '7993088630761494',
   thumbnail: thumb,
   itemCount: -77777777,
   status: 1,
   surface: 1,
   message: me,
-  orderTitle: 'Tidak tau',
+  orderTitle: 'Mimim-Official',
   sellerJid: '436506665652696@s.whatsapp.net',
   token: '1655878716',
   priceAmount: '666000',

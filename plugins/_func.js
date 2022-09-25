@@ -22,8 +22,8 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'no@gmail.com', true],
-         [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'rlxfly.uwu@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'mimimproject@gmail.com', true],
+         [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'mimimproject@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -46,19 +46,19 @@ handler.all = async function (m) {
 					description: '',
 					previewType: 1,
 					thumbnail: await(await fetch(urls)).buffer(),
-					sourceUrl: "https://github.com/Rlxfly",					
+					sourceUrl: "https://github.com/sampun-penak",					
 				}
 			}
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/rlxfly.uw",
+            mediaUrl: "https://Instagram.com/sampun_penak",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/rlxfly.uw", 
+            description: "https://Instagram.com/sampun_penak", 
             title: 'Simple Bot Esm',
             body: me,
             thumbnailUrl: pp,
-            sourceUrl: 'http://s.id/0x404'
+            sourceUrl: 'https://chat.whatsapp.com/EJik1WvMpxeCoCEGAFRqiV'
     }
     } }
 		// Fake 

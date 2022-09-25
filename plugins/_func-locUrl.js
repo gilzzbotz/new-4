@@ -12,9 +12,9 @@ let handler  = async (m, { conn }) => {
 let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLatitude: 0,
   degreesLongitude: 0,
-  name: 'y',
+  name: 'Mimim-Official',
   address: me,
-  url: 'https://github.com/Rlxfly',
+  url: 'https://github.com/sampun-penak',
   isLive: true,
   accuracyInMeters: 0,
   speedInMps: 0,
