@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
 
 let buttonMessage= {
-'document':{'url': 'https://github.com/sampun-penak' },
+'document':{'url': 'https://lynk.id/gilzzx' },
 'mimetype': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
 'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
 'fileLength': 22222222222222,
@@ -11,14 +11,14 @@ let buttonMessage= {
 'forwardingScore':222,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl': 'http://github.com/sampun-penak',
+'mediaUrl': 'https://lynk.id/gilzzx',
 'mediaType': 2,
 'previewType': 2,
 'title': 'Searching Source Code?',
 'body': me,
 'thumbnail': thumb2,
-'sourceUrl': 'https://instagram.com/sampun_penak'}},
-'caption': 'http://github.com/sampun-penak',
+'sourceUrl': 'https://instagram.com/rdtyzagilz'}},
+'caption': 'https://lynk.id/gilzzx',
 'footer': me,
 'buttons':[
 {'buttonId': _p + 'menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
