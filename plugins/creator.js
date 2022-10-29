@@ -1,8 +1,8 @@
 function handler(m) {
   
   const kontak = {
-	"displayName": 'My owner',
-	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${conn.getName('6283820073017@s.whatsapp.net')}\nitem1.TEL;waid=6283816446896:6283816446896\nitem1.X-ABLabel:Busy.\nURL;My Web: https://t.me/sampun_penak\nEMAIL;Email Owner: mimimproject@gmail.com\nORG: NOT A BOT + NO SAVE\nTEL;My number bot;waid=6283879504852:6283879504852\nEND:VCARD`
+	"displayName": 'Gilzz x Code',
+	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${conn.getName('6285730794089@s.whatsapp.net')}\nitem1.TEL;waid=6285730794089:6285730794089\nitem1.X-ABLabel:Busy.\nURL;My Web: https://t.me/sampun_penak\nEMAIL;Email Owner: gilzzbotz@gmail.com\nORG: NOT A BOT + NO SAVE\nTEL;My number bot;waid=77784019706:77784019706\nEND:VCARD`
 }
 
 conn.sendMessage(m.chat, { contacts: { contacts: [kontak] }}, { quoted: m })
