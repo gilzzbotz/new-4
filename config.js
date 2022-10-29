@@ -11,7 +11,7 @@ global.owner =
 
 
 
- // ['6283820073017', '436506665652696', '6285240750713']
+ // ['6285730794089', '6285730794089', '6285730794089']
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
@@ -50,14 +50,14 @@ global.APIKeys = { // APIKey Here
 
 
 // Sticker WM
-global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Mimim-Ofc 」\n\t\t「 IG: sampun_penak 」\n\t\t「 SC: github.com/sampun-penak 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Gilzz-Ofc 」\n\t\t「 085730794089 」\n\t\t「 SC: github.com/gilzzbotz 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Mimim - 2022'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ GilzzOfc - 2022'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
